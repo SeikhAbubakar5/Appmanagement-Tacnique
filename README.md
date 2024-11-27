@@ -14,14 +14,14 @@ I Used Material-UI components like Modal, Grid, Typography, Button, Tables for b
 Project Structure:-
 src/
   ├── components/
-    ├──Dashboard/ 
-        ├──Dashboard.js 
-    ├──Modal/
-        ├── ModalForm.jsx
-    ├── Navbar/
-        ├── Navbar.js
-    ├── Service/
-        ├── userServices.js     
+  │  ├──Dashboard/ 
+  │      ├──Dashboard.js 
+  │  ├──Modal/
+  │      ├── ModalForm.jsx
+  │  ├── Navbar/
+  │      ├── Navbar.js
+  │  ├── Service/
+  │      ├── userServices.js     
   │
   ├── App.js                 
   ├── index.js              
